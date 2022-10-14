@@ -1,5 +1,5 @@
 let blc = 5;
-let txn = new Promise (resolve, reject) {
+let txn = new Promise(function(resolve, reject) {
   
   
-}
+});
